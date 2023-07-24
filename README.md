@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Soy Anderssonf, soy aprendiz de programación, y he elegido el lenguaje Ruby!
 
 <!--
 **AnderssonFuentes/AnderssonFuentes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,6 @@
 ### 👋 Andersson's GitHub Profile 👋
 
-🌱 I’m currently learning HTML, CSS{flexbox & Grid}, Ruby and Rails
+🌱 I’m currently learning HTML, CSS{flexbox & Grid} and Ruby
 <!--
 **AnderssonFuentes/AnderssonFuentes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

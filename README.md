@@ -1,6 +1,6 @@
 ### 👋 Andersson's GitHub Profile 👋
 
-🌱 I’m currently learning HTML, CSS, JavaScript
+🌱 I’m currently learning HTML, CSS & JavaScript
 <!--
 **AnderssonFuentes/AnderssonFuentes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,7 +1,7 @@
 
 <!--
 ### 👋 Andersson's GitHub Profile 👋
-🌱 I’m currently learning JavaScript
+🌱 I’m currently learning Java
 **AnderssonFuentes/AnderssonFuentes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 # Hello there 👋
 
 # About Me
-- 😃 🌱 I’m currently learning JavaScript
+- 😃 🌱☕️ I’m currently learning Java
 
 # Tech Stack
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=java&logoColor=%23F7DF1E)
 
 # GitHub Stats
 <table align="center" border="0" cellpadding="0" cellspacing="0">

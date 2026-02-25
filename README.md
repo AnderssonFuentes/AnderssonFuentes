@@ -6,7 +6,6 @@
 - 🔭 **I’m currently working on:** Modeling software solutions using **Java** and applying **Design Patterns**.
 - 🌱 **I’m currently learning:** Deepening my understanding of **OOP**, **Algorithms**, and **Software Architecture**.
 - ✅ **My focus:** Writing Clean Code and following industry best practices.
-- “The entire history of software engineering is that of the rise in levels of abstraction.” Grady Booch
 
 
 # Tech Stack

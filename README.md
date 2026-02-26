@@ -5,7 +5,7 @@
 - I transitioned into tech with a strong focus on **Backend Development** in Java. My goal is not just to make code work, but to make it clean, scalable, and efficient using Object-Oriented Analysis and Design (OOA/D) principles.
 - 🔭 **I’m currently working on:** Modeling software solutions using **Java** and applying **Design Patterns**.
 - 🌱 **I’m currently learning:** Deepening my understanding of **OOP**, **Algorithms**, and **Software Architecture**.
-- ✅ **My focus:** Writing Clean Code and following industry best practices.
+- 🎯 **My focus:** Writing Clean Code and following industry best practices.
 
 
 # Tech Stack
